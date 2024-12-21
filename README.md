@@ -46,7 +46,7 @@ Translate To The French Language
 Translate To The German Language
 ![Screenshot 2024-12-21 230602](https://github.com/user-attachments/assets/dbd7c8c7-db1d-489e-8ab9-370bdd15f536)
 
-Translate To The Chainese Language
+Translate To The Chinese Language
 ![Screenshot 2024-12-21 230611](https://github.com/user-attachments/assets/a5a14d8d-17c7-4208-b673-6dfbf11ce77a)
 
 Translate To The Japanese Language
