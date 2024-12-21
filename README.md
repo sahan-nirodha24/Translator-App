@@ -24,10 +24,10 @@ The app utilizes **Google's ML Kit** for translation and supports automatic down
 
 ### How It Works
 
-1) **Input Text:** Users can type the text they wish to translate in the provided text box.
-2) **Language Selection:** The user selects a language from a dropdown menu.
-3) **Translation:** When the "Translate" button is pressed, the app uses ML Kit to translate the text from English into the selected language.
-4) **Model Download:** The translation model for the selected language is automatically downloaded if it's not already available on the device.
+- **Input Text:** Users can type the text they wish to translate in the provided text box.
+- **Language Selection:** The user selects a language from a dropdown menu.
+- **Translation:** When the "Translate" button is pressed, the app uses ML Kit to translate the text from English into the selected language.
+- **Model Download:** The translation model for the selected language is automatically downloaded if it's not already available on the device.
 
 ### Screen Shots Of The Translator App
 
