@@ -16,11 +16,11 @@ The app utilizes **Google's ML Kit** for translation and supports automatic down
 
 ### Features
 
--	Multi-Language Translation: The app translates text from English to one of the seven available languages.
--	Text Input: Users can enter text to translate in a user-friendly text input field.
--	Language Selection: A dropdown menu allows users to select the target language.
--	Real-Time Translation: Translations happen in real-time after the user presses the "Translate" button.
--	Automatic Model Download: The app automatically downloads the necessary translation models to increase translation speed and accuracy.
+-	**Multi-Language Translation:** The app translates text from English to one of the seven available languages.
+-	**Text Input:** Users can enter text to translate in a user-friendly text input field.
+-	**Language Selection:** A dropdown menu allows users to select the target language.
+-	**Real-Time Translation:** Translations happen in real-time after the user presses the "Translate" button.
+-	**Automatic Model Download:** The app automatically downloads the necessary translation models to increase translation speed and accuracy.
 
 ### How It Works
 
