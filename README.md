@@ -1,18 +1,18 @@
 ## Translator App
 
-**This is a Language Translator App built for Android using ML Kit, which allows users to translate text from English into seven different languages.**
+This is a **Language Translator App** built for Android using **ML Kit**, which allows users to translate text from English into seven different languages.
 
 ### The app supports the following languages:
 
-+ Spanish
-+ French
-+ German
-+ Chinese
-+ Japanese
-+ Hindi
-+ Arabic
++ **Spanish**
++ **French**
++ **German**
++ **Chinese**
++ **Japanese**
++ **Hindi**
++ **Arabic**
 
-**The app utilizes Google's ML Kit for translation and supports automatic downloading of required translation models to enhance performance.**
+The app utilizes **Google's ML Kit** for translation and supports automatic downloading of required translation models to enhance performance.
 
 ### Features
 
